@@ -67,12 +67,19 @@ https://levelimposter.net/
 Others
 
 https://github.com/OhMyGuus/BetterCrewlink
+
 https://github.com/ottomated/CrewLink
+
 https://github.com/sawa90/AmongUsReplayInWindow
+
 https://github.com/MatuxGG/ModManager
+
 https://github.com/DigiWorm0/LevelImposter-Editor
+
 https://github.com/MyDragonBreath/AmongUs.MultiClientInstancing 
+
 https://gamebanana.com/games/7621  a lots of mod
+
 https://among-us.fandom.com/wiki/Mods
 
 
