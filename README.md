@@ -5,8 +5,8 @@ Version V2024.6.18 or above.(on [Steam](https://store.steampowered.com/?l=tchine
 If you want to download other versions, please go to depotdownloader, but there are very complex.
 
 1.Download the archives we release.                                                                                                               
-2.Then find your Among Us original folder, copy it, and rename it to an easy-to-understand name, like "Among Us V2024.6.18".
-3.Delete the original Among Us_Data and GameAssembly and paste the downloaded ones.
+2.Then find your Among Us original folder, copy it, and rename it to an easy-to-understand name, like "Among Us V2024.6.18".                                              
+3.Delete the original Among Us_Data and GameAssembly and paste the downloaded ones.                                                                                           
 4.Done!
 
 Among Us Mods:
