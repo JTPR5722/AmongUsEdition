@@ -1,4 +1,4 @@
-# AmongUsEdition
+# AmongUsVersion
 These are [Among Us](https://store.steampowered.com/app/945360/Among_Us)'s version.
 If you want to download mods, you can use these.
 Version V2024.6.18 or above.(on [Steam](https://store.steampowered.com/?l=tchinese))
@@ -8,7 +8,7 @@ Among Us Mods:
 
 Continued:
 
-https://github.com/TheOtherRolesAU/TheOtherRoles/releases           (English)
+https://github.com/TheOtherRolesAU/TheOtherRoles/releases       
 
 https://github.com/EnhancedNetwork/TownofHost-Enhanced/releases
 
@@ -78,7 +78,7 @@ https://github.com/DigiWorm0/LevelImposter-Editor
 
 https://github.com/MyDragonBreath/AmongUs.MultiClientInstancing 
 
-https://gamebanana.com/games/7621  a lots of mod
+https://gamebanana.com/games/7621     
 
 https://among-us.fandom.com/wiki/Mods
 
