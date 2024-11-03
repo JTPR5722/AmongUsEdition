@@ -9,35 +9,59 @@ Among Us Mods:
 Continued:
 
 https://github.com/TheOtherRolesAU/TheOtherRoles/releases           (English)
+
 https://github.com/EnhancedNetwork/TownofHost-Enhanced/releases
+
 https://github.com/Gurge44/EndlessHostRoles/releases
+
 https://github.com/eDonnes124/Town-Of-Us-R?tab=readme-ov-file#releases
+
 https://github.com/KiraYamato94/LasMonjas/releases
+
 https://github.com/yukieiji/ExtremeRoles/releases
+
 https://github.com/SuperNewRoles/SuperNewRoles/releases
+
 https://github.com/Mr-Fluuff/StellarRolesAU/releases
+
 https://github.com/Rabek009/MoreGamemodes/releases
+
 https://github.com/XtremeWave/TownOfNewEpic_Xtreme/releases
+
 https://github.com/SpexGH/TheOtherUs/releases/
+
 https://github.com/tukasa0001/TownOfHost/releases
+
 https://github.com/Zeo666/AllTheRoles/releases/
+
 https://store.steampowered.com/app/2160150/AmongUs_Challenger/
+
 https://skeld.net/
+
 https://github.com/Dolly1016/Nebula/releases
+
 https://github.com/AlchlcDvl/TownOfUsReworked/releases
+
 ---------------------------------------------------------------------
 Not released yet :
 
 https://github.com/Lotus-AU/LotusContinued/releases
+
 https://github.com/Lotus-AU/VentFramework-Continued
+
 https://github.com/haoming37/GMH/releases
+
 https://github.com/ImaMapleTree/simply-cli/releases
+
 https://github.com/ImaMapleTree/TOURHatAddon/releases 
+
 ---------------------------------------------------------------------
 Maps:
 
 https://github.com/SubmergedAmongUs/Submerged/releases
+
 https://levelimposter.net/
+
 --------------------------------------------------------------------- 
 
 Others
