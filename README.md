@@ -12,6 +12,7 @@ If you want to download other versions, please go to depotdownloader, but there 
 # Among Us Mods:
 
 https://github.com/TheOtherRolesAU/TheOtherRoles/releases       
+![TOR_logo](https://github.com/user-attachments/assets/603dd872-9d17-4c3f-aa12-0f9d44bf58b2)
 
 https://github.com/EnhancedNetwork/TownofHost-Enhanced/releases
 
