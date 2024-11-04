@@ -9,9 +9,7 @@ If you want to download other versions, please go to depotdownloader, but there 
 3.Delete the original Among Us_Data and GameAssembly and paste the downloaded ones.                                                                                           
 4.Done!
 
-Among Us Mods:
-
-Continued:
+# Among Us Mods:
 
 https://github.com/TheOtherRolesAU/TheOtherRoles/releases       
 
@@ -48,7 +46,7 @@ https://github.com/Dolly1016/Nebula/releases
 https://github.com/AlchlcDvl/TownOfUsReworked/releases
 
 ---------------------------------------------------------------------
-Not released yet :
+# Not released yet :
 
 https://github.com/Lotus-AU/LotusContinued/releases
 
@@ -61,7 +59,7 @@ https://github.com/ImaMapleTree/simply-cli/releases
 https://github.com/ImaMapleTree/TOURHatAddon/releases 
 
 ---------------------------------------------------------------------
-Maps:
+# Maps:
 
 https://github.com/SubmergedAmongUs/Submerged/releases
 
@@ -69,7 +67,7 @@ https://levelimposter.net/
 
 --------------------------------------------------------------------- 
 
-Others
+# Others
 
 https://github.com/OhMyGuus/BetterCrewlink
 
