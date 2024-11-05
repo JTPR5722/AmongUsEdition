@@ -12,19 +12,26 @@ If you want to download other versions, please go to depotdownloader, but there 
 # Among Us Mods:
 
 https://github.com/TheOtherRolesAU/TheOtherRoles/releases       
-![TOR_logo](https://github.com/user-attachments/assets/603dd872-9d17-4c3f-aa12-0f9d44bf58b2)
+![TOR_logo](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/TOR_logo.png)
 
 https://github.com/EnhancedNetwork/TownofHost-Enhanced/releases
+![TOHE-Background-Old](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/TOHE-Background-Old.jpg)
 
 https://github.com/Gurge44/EndlessHostRoles/releases
+![EHR-Icon](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/EHR-Icon.png)
 
 https://github.com/eDonnes124/Town-Of-Us-R?tab=readme-ov-file#releases
+![TOU-logo](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/TOU-logo.png)
 
 https://github.com/KiraYamato94/LasMonjas/releases
+![LasMonjas_banner](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/LasMonjas_banner.png)
 
 https://github.com/yukieiji/ExtremeRoles/releases
+![ExtremeRoles_banner](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/ExtremeRoles_banner.png)
+
 
 https://github.com/SuperNewRoles/SuperNewRoles/releases
+![SNRImage](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/SNRImage.png)
 
 https://github.com/Mr-Fluuff/StellarRolesAU/releases
 
