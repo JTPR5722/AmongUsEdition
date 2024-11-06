@@ -1,4 +1,4 @@
-![XW-TONEX](https://github.com/user-attachments/assets/9202efeb-9812-47d8-b38b-7b4c97211c81)# AmongUsVersion
+# AmongUsVersion
 These are [Among Us](https://store.steampowered.com/app/945360/Among_Us)'s version.
 If you want to download mods, you can use these.
 Version V2024.6.18 or above.(on [Steam](https://store.steampowered.com/?l=tchinese))
