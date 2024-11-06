@@ -34,14 +34,19 @@ https://github.com/SuperNewRoles/SuperNewRoles/releases
 ![SNRImage](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/SNRImage.png)
 
 https://github.com/Mr-Fluuff/StellarRolesAU/releases
+![Stellar Roles](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/Stellar%20Roles.png)
 
 https://github.com/Rabek009/MoreGamemodes/releases
+![more gamemodes](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/more%20gamemodes.png)
 
 https://github.com/XtremeWave/TownOfNewEpic_Xtreme/releases
+![TOU_Logo](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/TOU_Logo.png)
 
 https://github.com/SpexGH/TheOtherUs/releases/
+![TOU-logo](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/TOU-logo.png)
 
 https://github.com/tukasa0001/TownOfHost/releases
+![TownOfHost-Title](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/TownOfHost-Title.png)
 
 https://github.com/Zeo666/AllTheRoles/releases/
 
