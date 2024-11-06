@@ -80,9 +80,11 @@ https://github.com/ImaMapleTree/TOURHatAddon/releases
 ---------------------------------------------------------------------
 # Maps:
 
-https://github.com/SubmergedAmongUs/Submerged/releases
+https://github.com/SubmergedAmongUs/Submerged/releases                 
+![Icon](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/Icon.png)
 
-https://levelimposter.net/
+https://levelimposter.net/                                           
+![LevelIpostor](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/LevelIpostor.png)
 
 --------------------------------------------------------------------- 
 
