@@ -99,12 +99,12 @@ https://github.com/sawa90/AmongUsReplayInWindow
 https://github.com/MatuxGG/ModManager
 
 https://github.com/DigiWorm0/LevelImposter-Editor
-
+![LevelIpostor](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/LevelIpostor.png)
 https://github.com/MyDragonBreath/AmongUs.MultiClientInstancing 
 
 https://gamebanana.com/games/7621     
 
-https://among-us.fandom.com/wiki/Mods
+https://among-us.fandom.com/wiki/Mods                                                                                                                                 
 
 
 
