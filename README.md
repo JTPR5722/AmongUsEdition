@@ -9,6 +9,8 @@ If you want to download other versions, please go to depotdownloader, but there 
 3.Delete the original Among Us_Data and GameAssembly and paste the downloaded ones.                                                                                           
 4.Done!
 
+[Among Us file](https://github.com/JTPR5722/AmongUsVersion/tree/AmongUs)
+
 # Among Us Mods:
 
 https://github.com/TheOtherRolesAU/TheOtherRoles/releases       
