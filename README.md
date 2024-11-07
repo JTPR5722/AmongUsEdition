@@ -14,8 +14,6 @@ If you want to download other versions, please go to depotdownloader, but there 
 https://github.com/TheOtherRolesAU/TheOtherRoles/releases       
 ![TOR_logo](https://github.com/JTPR5722/AmongUsVersion/blob/AmongUsVersion/image/TOR_logo.png)
 
-
-
 https://github.com/EnhancedNetwork/TownofHost-Enhanced/releases
 ![TOHE-Background-Old](https://github.com/JTPR5722/AmongUsVersion/blob/main/image/TOHE-Background-Old.jpg)
 
